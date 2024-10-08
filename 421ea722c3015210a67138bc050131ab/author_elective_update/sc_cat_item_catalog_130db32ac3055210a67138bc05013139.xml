@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Create To Do Item">78caf72ac3c15210a67138bc05013163</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 06:32:02</sys_created_on>
+        <sys_id>130db32ac3055210a67138bc05013139</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Create To Do Item</sys_name>
+        <sys_package display_value="To Do" source="x_1027912_to_do">421ea722c3015210a67138bc050131ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">421ea722c3015210a67138bc050131ab</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_130db32ac3055210a67138bc05013139</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 06:32:02</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">421ea722c3015210a67138bc050131ab</application>
+        <file_path/>
+        <instance_id>e313b500dbd98edc37d72a59139619b2</instance_id>
+        <instance_name>dev249857</instance_name>
+        <name>sc_cat_item_catalog_130db32ac3055210a67138bc05013139</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Create To Do Item">78caf72ac3c15210a67138bc05013163</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-08 06:32:02</sys_created_on><sys_id>130db32ac3055210a67138bc05013139</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Create To Do Item</sys_name><sys_package display_value="To Do" source="x_1027912_to_do">421ea722c3015210a67138bc050131ab</sys_package><sys_policy/><sys_scope display_value="To Do">421ea722c3015210a67138bc050131ab</sys_scope><sys_update_name>sc_cat_item_catalog_130db32ac3055210a67138bc05013139</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-08 06:32:02</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1424996203</payload_hash>
+        <record_name>Service Catalog.Create To Do Item</record_name>
+        <reverted_from/>
+        <source>ca1ea722c3015210a67138bc050131af</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 06:32:02</sys_created_on>
+        <sys_id>d30db32ac3055210a67138bc05013149</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1926ad3dd250000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 06:32:02</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>170db32ab70552101cf0114fbc148c48</update_guid>
+        <update_guid_history>170db32ab70552101cf0114fbc148c48:1424996203</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Create To Do Item">81bd7f2ec3055210a67138bc050131f7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 06:34:53</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>1ba104cf4d4d4e5a846276969cebf221</sys_id>
+        <sys_metadata>130db32ac3055210a67138bc05013139</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Create To Do Item</sys_name>
+        <sys_package display_value="To Do" source="x_1027912_to_do">421ea722c3015210a67138bc050131ab</sys_package>
+        <sys_parent display_value="Create To Do Item">78caf72ac3c15210a67138bc05013163</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="To Do">421ea722c3015210a67138bc050131ab</sys_scope>
+        <sys_scope_delete display_value="">8264a4e334104190a36037f931297de1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_130db32ac3055210a67138bc05013139</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_130db32ac3055210a67138bc05013139">d30db32ac3055210a67138bc05013149</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 06:34:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Request a new To Do Project">610140f6c3455210a67138bc050131b4</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 06:54:22</sys_created_on>
+        <sys_id>5222883ac3455210a67138bc050131e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request a new To Do Project.Any User</sys_name>
+        <sys_package display_value="To Do" source="x_1027912_to_do">421ea722c3015210a67138bc050131ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">421ea722c3015210a67138bc050131ab</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_5222883ac3455210a67138bc050131e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 06:54:22</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">421ea722c3015210a67138bc050131ab</application>
+        <file_path/>
+        <instance_id>e313b500dbd98edc37d72a59139619b2</instance_id>
+        <instance_name>dev249857</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_5222883ac3455210a67138bc050131e3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Request a new To Do Project">610140f6c3455210a67138bc050131b4</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-08 06:54:22</sys_created_on><sys_id>5222883ac3455210a67138bc050131e3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Request a new To Do Project.Any User</sys_name><sys_package display_value="To Do" source="x_1027912_to_do">421ea722c3015210a67138bc050131ab</sys_package><sys_policy/><sys_scope display_value="To Do">421ea722c3015210a67138bc050131ab</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_5222883ac3455210a67138bc050131e3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-08 06:54:22</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>-320629425</payload_hash>
+        <record_name>Request a new To Do Project.Any User</record_name>
+        <reverted_from/>
+        <source>ca1ea722c3015210a67138bc050131af</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 06:54:22</sys_created_on>
+        <sys_id>5622883ac3455210a67138bc050131e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1926ae84e9f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 06:54:22</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>9622883afc455210c13cc271d5f9dbe6</update_guid>
+        <update_guid_history>9622883afc455210c13cc271d5f9dbe6:-320629425</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Request a new To Do Project.Any User">0e528c3ac3455210a67138bc050131aa</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 06:55:10</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>0a7dc1b190f74818b97a6eee429c9310</sys_id>
+        <sys_metadata>5222883ac3455210a67138bc050131e3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request a new To Do Project.Any User</sys_name>
+        <sys_package display_value="To Do" source="x_1027912_to_do">421ea722c3015210a67138bc050131ab</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do">421ea722c3015210a67138bc050131ab</sys_scope>
+        <sys_scope_delete display_value="">8264a4e334104190a36037f931297de1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_5222883ac3455210a67138bc050131e3</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_5222883ac3455210a67138bc050131e3">5622883ac3455210a67138bc050131e7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 06:55:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
